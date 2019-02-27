@@ -4,7 +4,7 @@
     "url": "https://github.com/goreliu/wsl-terminal/releases/download/v0.8.12/wsl-terminal-0.8.12.7z",
     "extract_dir": "wsl-terminal",
     "checkver": "github",
-    "autoupdate" {
+    "autoupdate" : {
         "url": "https://github.com/goreliu/wsl-terminal/releases/download/v$version/wsl-terminal-$version.7z"
     }
 }
