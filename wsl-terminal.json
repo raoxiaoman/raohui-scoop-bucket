@@ -1,0 +1,7 @@
+{
+    "homepage":"https://github.com/goreliu/wsl-terminal"
+    "version": "0.8.12",
+    "url": "https://github.com/goreliu/wsl-terminal/releases/download/v0.8.12/wsl-terminal-0.8.12.7z"
+    "extract_dir": "wsl-terminal"
+    "checkver":"github"
+}
